@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1574211191 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\competicao.cpp
+	"Competicao.h"
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	<iostream>
+	<string>
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\competicao.h
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	<stdexcept>
+	<iostream>
+	<string>
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\equipe.h
+	<iostream>
+	<string>
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\modalidade.h
+	"Equipe.h"
+	"TabelaComOrdem.h"
+	<stdexcept>
+	<iostream>
+	<string>
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\tabelacomordem.h
+	<iostream>
+	<string>
+	<stdexcept>
+	"Tabela.h"
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\tabela.h
+	"Equipe.h"
+	<iostream>
+	<string>
+	<stdexcept>
+
+1574286010 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\competicaomultimodalidades.cpp
+	"CompeticaoMultimodalidades.h"
+
+1574216978 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\competicaomultimodalidades.h
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	"Competicao.h"
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+	<stdexcept>
+	<iostream>
+	<string>
+	<list>
+	<vector>
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\tabelacompontos.h
+	<string>
+	<iostream>
+	<stdexcept>
+	"Tabela.h"
+
+1574199186 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\competicaosimples.cpp
+	"CompeticaoSimples.h"
+
+1574216698 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\competicaosimples.h
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	"Competicao.h"
+	<stdexcept>
+	<iostream>
+	<string>
+
+1574199186 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\equipe.cpp
+	<iostream>
+	<string>
+	"Equipe.h"
+
+1574211062 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\main.cpp
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	"Competicao.h"
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+	"PersistenciaDeCompeticao.h"
+	<iostream>
+	<string>
+
+1574199186 c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\persistenciadecompeticao.h
+	"Equipe.h"
+	"Modalidade.h"
+	"Tabela.h"
+	"Competicao.h"
+	"CompeticaoMultimodalidades.h"
+	"CompeticaoSimples.h"
+	"TabelaComOrdem.h"
+	"TabelaComPontos.h"
+	<stdexcept>
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	<fstream>
+
+1574211191 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\modalidade.cpp
+	"Modalidade.h"
+	"Equipe.h"
+	<iostream>
+	<string>
+
+1574211191 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\tabela.cpp
+	"Tabela.h"
+	"Equipe.h"
+	"Modalidade.h"
+	"TabelaComOrdem.h"
+
+1574211191 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\tabelacomordem.cpp
+	"TabelaComOrdem.h"
+
+1574214497 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\tabelacompontos.cpp
+	"TabelaComPontos.h"
+
+1574213770 source:c:\users\pacifico\documents\usp\pcs3111\ep2\envioep2\persistenciadecompeticao.cpp
+	"PersistenciaDeCompeticao.h"
+

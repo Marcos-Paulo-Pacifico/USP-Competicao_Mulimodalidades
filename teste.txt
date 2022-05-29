@@ -1,0 +1,10 @@
+3 POLI FEA FAU
+BixUSP
+1
+3
+Volei
+1 3 POLI FEA FAU
+Basquete
+1 3 FEA FAU POLI
+Futebol
+1 3 POLI FEA FAU
